@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285786211623']
-global.premium = ['6285786211623']
-global.ownername = '𝑲𝒓𝒊𝒔 𝑯𝒐𝒔𝒕𝒊𝒏𝒈'
-global.botname = '𝑲𝒓𝒊𝒔𝑩𝒐𝒕𝒛'
-global.packname = '© 𝑩𝒚 𝑲𝒓𝒊𝒔 𝑯𝒐𝒔𝒕𝒊𝒏𝒈'
+global.owner = ['6288287722724']
+global.premium = ['6288287722724']
+global.ownername = 'Putra '
+global.botname = 'Putra𝑩𝒐𝒕𝒛'
+global.packname = '© 𝑩𝒚 Putra Ganz'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/krishosting'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
